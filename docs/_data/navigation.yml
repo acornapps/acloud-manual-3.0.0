@@ -34,6 +34,51 @@ main:
 
 # documentation links
 docs:
+  - title: "청지원 이해"
+    text: "TT"
+    image: /assets/ko/3.0.0/1_3.png
+    children:
+      - title: "청지원 구성 개요"
+        url: /docs/quick-start-guideljhh/
+      - title: "클러스터 관리 레이어"
+        url: /docs/structure/
+      - title: "서비스 관리 레이어"
+        url: /docs/installation/
+      - title: "카탈로그 레이어"
+        url: /docs/upgrading/
+      - title: "대시보드 레이어"
+        url: /docs/upgrading/
+      - title: "청지원 사용설명서"
+        url: /docs/upgrading/
+      - title: "로그인"
+        url: /docs/upgrading/
+  - title: "환경설정"
+    children:
+    - title: "사용자"
+      url: /docs/configuration/
+      children:
+        - title: "사용자 추가"
+          url: /docs/overriding-theme-defaults/
+        - title: "사용자 편집"
+          url: /docs/navigation/
+        - title: "사용자 삭제"
+          url: /docs/ui-text/
+        - title: "사용자 비밀번호 초기화"
+          url: /docs/authors/
+    - title: "계정"
+      url: /docs/asd/
+      children:
+        - title: "계정 추가"
+          url: /docs/overriding-theme-defaults/
+          children:
+            - title: "AWS 계정 추가"
+              url: /docs/overriding-theme-defaults/
+            - title: "GCP 계정 추가"
+              url: /docs/navigation/
+        - title: "계정 편집"
+          url: /docs/navigation/
+        - title: "계정 삭제"
+          url: /docs/ui-text/
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
