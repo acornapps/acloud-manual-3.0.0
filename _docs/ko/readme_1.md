@@ -8,7 +8,7 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 청지윈은 그 역할에 따라 5개의 레이어로 구성된다.
 
 ![]({{ site.baseurl }}/assets/cocktailcloud-architecture.png)

@@ -8,7 +8,7 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 일반적으로 하나의 어플리케이션 및 서비스는 다수의 컨테이너로 구성된다. 특히 Kubernetes와 같은 오케스트레이션 엔진의 경우 컨테이너 외에도 서비스 포트, 컨트롤러, 볼륨등의 추가적인 객체를 필요로 한다. 따라서 컨테이너 기반의 어플리케이션 및 서비스를 관리하기 위해서는 컨테이너와 관련 객체를 패키징하고 관리하는 추상화 단위가 필요하다. 서비스 관리 레이어는 이를 담당하는 레이어다.
 
 청지윈의 서비스 관리는 다음과 같은 계층 구조를 가진다.
@@ -19,7 +19,7 @@ toc_sticky: false
 
 아래 그림은 서비스 관리 레이어의 구성을 도식화 한 것이다.
 
-![](/assets/KR/3.0.0/cocktailcloud-architecture-3.png)
+![]({{ site.baseurl }}/assets/KR/3.0.0/cocktailcloud-architecture-3.png)
 
 **Cengjiyun Server**
 
@@ -27,7 +27,7 @@ toc_sticky: false
 
 아래는 이를 도식화 한 그림이다.
 
-![](/assets/KR/3.0.0/cocktailcloud-architecture-4.png)
+![]({{ site.baseurl }}/assets/KR/3.0.0/cocktailcloud-architecture-4.png)
 
 청지윈이 제공하는 관리기능에는 다음과 같은 것들이 있다.
 
@@ -47,6 +47,6 @@ toc_sticky: false
 
 ---
 
-이전글 : [Cluster Management Layer\(클러스터 관리 레이어\)](/docs/ko/readme_2/)
+이전글 : [Cluster Management Layer\(클러스터 관리 레이어\)]({{ site.baseurl }}/docs/ko/readme_2/)
 
-다음글 : [Pipeline Layer \(파이프라인 레이어\)](/docs/ko/readme_4/)
+다음글 : [Pipeline Layer \(파이프라인 레이어\)]({{ site.baseurl }}/docs/ko/readme_4/)

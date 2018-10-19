@@ -8,7 +8,7 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 청지윈의 대시보드 레이어는 서비스 현황, 모니터링, 클러스터 현황 등을 웹UI형태로 제공한다.
 
 대시보드는 사용자의 역할에 맞는 뷰를 권한에 따라 제공한다. 청지윈의 사용자 권한은 다음과 같다.
@@ -31,4 +31,4 @@ toc_sticky: false
 
 ---
 
-이전글 : [Catalog Layer \(카탈로그 레이어\)](/docs/ko/readme_5/)
+이전글 : [Catalog Layer \(카탈로그 레이어\)]({{ site.baseurl }}/docs/ko/readme_5/)

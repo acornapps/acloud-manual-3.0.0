@@ -8,10 +8,10 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 환경설정을 통해 층적 이용에 필요한 사용자, 계정, 서비스 관리를 할 수 있다.
 
-![](/assets/KR/3.0.0/2_1.png)
+![]({{ site.baseurl }}/assets/KR/3.0.0/2_1.png)
 
 | 환경 설정 메뉴 | **설명** |
 | :--- | :--- |

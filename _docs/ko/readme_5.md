@@ -8,12 +8,12 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 컨테이너는 그 구성을 이미지화하여 배포 실행한다. 따라서 자주 사용하는 DB나 미들웨어 등의 런타임은 컨테이너 이미지와 배포 정보를 템플릿화 하면 반복적인 작업을 줄이고 언제든 필요할 때 쉽게 배포하여 사용 할 수 있다.
 
 이러한 템플릿을 생성하고 관리를 담당하는 레이어가 카탈로그다. 카탈로그 레이어의 구성을 도식화하면 아래와 같다.
 
-![](/assets/KR/3.0.0/cocktailcloud-architecture-6.png)
+![]({{ site.baseurl }}/assets/KR/3.0.0/cocktailcloud-architecture-6.png)
 
 카탈로그는 목적에 따라 두 가지 형태로 구분 된다.
 
@@ -22,6 +22,6 @@ toc_sticky: false
 
 ---
 
-이전글 : [Pipeline Layer \(파이프라인 레이어\)](/docs/ko/readme_4/)
+이전글 : [Pipeline Layer \(파이프라인 레이어\)]({{ site.baseurl }}/docs/ko/readme_4/)
 
-다음글 : [Dashboard Layer \(대시보드 레이어\)](/docs/ko/readme_6/)
+다음글 : [Dashboard Layer \(대시보드 레이어\)]({{ site.baseurl }}/docs/ko/readme_6/)

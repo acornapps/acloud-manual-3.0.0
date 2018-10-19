@@ -8,7 +8,7 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 파이프라인 레이어는 코드로부터 컨테이너 빌드와 배포를 자동화 한다.
 
 Build는 코드 다운로드, 코드 빌드 및 테스트등 작업\(Task\), 컨테이너 이미지 빌드를 사용자 설정을 기준으로 순차적으로 수행한다. 작업\(Task\)은 내부에서 작업을 수행하는 컨테이너를 사용하는데, 기본 제공되는 컨테이너 외에도 공개 또는 사용자가 만든 컨테이너를 사용하여 확장 할 수 있다.
@@ -19,12 +19,12 @@ Build는 코드 다운로드, 코드 빌드 및 테스트등 작업\(Task\), 컨
 
 아래 그림은 파이프라인 레이어의 구성을 도식화 한 것이다.
 
-![](/assets/cocktailcloud-architecture-5.png)
+![]({{ site.baseurl }}/assets/cocktailcloud-architecture-5.png)
 
 파이프라인 레이어는 지속적인 통합과 배포\(CI/CD\)를 통해 DevOps를 위한 기반을 제공한다. DevOps는 개발과 운영간 연속성과 유기적인 협력을 강조한다. CI/CD는 DevOps에 필요한 구성 요소중 하나로 컨테이너 기반의 개발, 운영에서도 마찬가지로 매우 중요하다.
 
 ---
 
-이전글 : [Service Management Layer \(서비스 관리 레이어\)](/docs/ko/readme_3/)
+이전글 : [Service Management Layer \(서비스 관리 레이어\)]({{ site.baseurl }}/docs/ko/readme_3/)
 
-다음글 : [Catalog Layer \(카탈로그 레이어\)](/docs/ko/readme_5/)
+다음글 : [Catalog Layer \(카탈로그 레이어\)]({{ site.baseurl }}/docs/ko/readme_5/)

@@ -8,7 +8,7 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 대시보드에서는 청지윈에 서비스된 정보를 한 눈에 확인 할 수 있다.
 
 * **요약정보**
@@ -35,4 +35,4 @@ toc_sticky: false
 
   사용 중인 어플리케이션 중 상위 5개 어플리케이션 리소스 할당량을 확인 할 수 있다.
 
-![](/assets/KR/3.0.0/6_1.png)
+![]({{ site.baseurl }}/assets/KR/3.0.0/6_1.png)

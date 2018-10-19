@@ -8,14 +8,14 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 어플리케이션 구성을 템플릿화하여 쉽게 워크로드 생성 및 배포, 관리가 가능한 기능이다.
 
 여러 워크로드들을 한 번에 묶어 사용하고자 하는 경우 카탈로그 기능을 사용한다.
 
 카탈로그는 서비스 카탈로그와 플랫폼 카탈로그로 구분된다.
 
-![](/assets/KR/3.0.0/4_0.png)![](/assets/KR/3.0.0/4_1.png)![](/assets/KR/3.0.0/4_2.png)
+![]({{ site.baseurl }}/assets/KR/3.0.0/4_0.png)![]({{ site.baseurl }}/assets/KR/3.0.0/4_1.png)![]({{ site.baseurl }}/assets/KR/3.0.0/4_2.png)
 
 | **카탈로그 메뉴** | **설명** |
 | :--- | :--- |

@@ -8,10 +8,10 @@ toc: false
 toc_sticky: false
 ---
 
-
+---
 클러스터 관리 레이어는 클러스터를 구성하는 인프라 스트럭처와 컨테이너 오케스트레이션 엔진 부분으로 구분된다. 상세 구성은 아래 그림과 같다.
 
-![](/assets/cocktailcloud-architecture-2.png)
+![]({{ site.baseurl }}/assets/cocktailcloud-architecture-2.png)
 
 청지윈은 클러스터 인프라와 오케스트레이션 엔진을 사용자의 설정에 따라 자동 프로비져닝\(Provisioning\)하는데 이를 담당하는 도구가CUBE이다. CUBE는 고가용\(High Availability, HA\)의 Kubernetes클러스터를 구성한다. CUBE가 프로비져닝하는 클러스터 구성은 높은 안정성과 보안, 확장성을 제공한다.\(이를 CUBE클러스터라 한다.\)
 
@@ -38,6 +38,6 @@ CUBE클러스터에는 관리를 위한 확장 컴포넌트가 추가 제공된�
 
 ---
 
-이전글 : [청지윈 구성 개요](/docs/ko/readme_1/)
+이전글 : [청지윈 구성 개요]({{ site.baseurl }}/docs/ko/readme_1/)
 
-다음글 : [Service Management Layer \(서비스 관리 레이어\)](/docs/ko/readme_3/)
+다음글 : [Service Management Layer \(서비스 관리 레이어\)]({{ site.baseurl }}/docs/ko/readme_3/)

@@ -14,7 +14,7 @@ toc_sticky: true
 
 청지윈은 그 역할에 따라 5개의 레이어로 구성된다.
 
-![](/assets/cocktailcloud-architecture.png)
+![]({{ site.baseurl }}/assets/cocktailcloud-architecture.png)
 
 * **Cluster Management Layer **: 컨테이너가 배포/실행되는 인프라\(클러스터\)와 오케스트레이션\(Orchestration\)을 담당하는 레이어다. 오케스트레이션은  Kubernetes\([https://kubernetes.io](https://kubernetes.io)\)가 담당하고 인프라 관리, 모니터링 등 확장 관리 기능을 제공한다.
 
