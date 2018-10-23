@@ -17,12 +17,12 @@ Below is the initial Cengjiyun login screen.
 
 You can log in after entering the role, ID, and password. \(Contact the administrator for ID information.\)
 
-![]({{ site.baseurl }}/assets/EN/2.5/1_1.png)
+![]({{ site.baseurl }}/assets/EN/3.0.0/1_1.png)
 
 The password must be changed when first connecting or initializing the password.
 
-![]({{ site.baseurl }}/assets/EN/2.5.3/1_2.png)
+![]({{ site.baseurl }}/assets/EN/3.0.0/1_2.png)
 
 You can change your password or extend your password even after 90 days have passed.
 
-![]({{ site.baseurl }}/assets/EN/2.5.3/1_3.png)
+![]({{ site.baseurl }}/assets/EN/3.0.0/1_3.png)

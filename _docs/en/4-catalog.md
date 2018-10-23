@@ -19,7 +19,7 @@ Use the catalog feature to use multiple servers at once.
 
 The catalog feature is divided into service catalogs and platform catalogs.
 
-![]({{ site.baseurl }}/assets/EN/2.5/4_1.png)![]({{ site.baseurl }}/assets/EN/2.5/4_2.png)![]({{ site.baseurl }}/assets/EN/2.5/4_3.png)
+![]({{ site.baseurl }}/assets/EN/3.0.0/4_1.png)![]({{ site.baseurl }}/assets/EN/3.0.0/4_2.png)![]({{ site.baseurl }}/assets/EN/3.0.0/4_3.png)
 
 | **Catalog Menu** | **Description** |
 | :--- | :--- |

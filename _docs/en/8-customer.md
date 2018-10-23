@@ -1,5 +1,5 @@
 ---
-title: "8. Customer Support"
+title: "8.Customer Support"
 excerpt: ""
 permalink: /docs/en/8/
 redirect_from:

@@ -207,7 +207,7 @@ en:
   - title: "What is Cengjiyun?"
     url: /docs/en/readme_0/
     children:
-      - title: "Cocktail Cloud Structure Overview"
+      - title: "Cengjiyun Structure Overview"
         url: /docs/en/readme_1/
       - title: "Cluster Management Layer"
         url: /docs/en/readme_2/

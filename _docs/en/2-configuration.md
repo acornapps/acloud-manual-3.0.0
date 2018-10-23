@@ -13,7 +13,7 @@ sidebar:
 
 ---
 
-Environment settings allow user, account, and service management required to use Cengjiyun.![]({{ site.baseurl }}/assets/EN/2.5/2_1.png)
+Environment settings allow user, account, and service management required to use Cengjiyun.![]({{ site.baseurl }}/assets/EN/3.0.0/2_1.png)
 
 | Environment | **Description** |
 | :--- | :--- |
