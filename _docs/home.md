@@ -3,12 +3,13 @@
 #title: 'Cocktail Mini'
 layout: splash
 permalink: /
-header:
-  overlay_image: "/assets/images/cocktailmini_bg01.jpg"
+#header:
+  #overlay_image: "/assets/home2.jpg"
+  #overlay_color: "#485465"
   #cta_label: "<i class='fas fa-download'></i> Install Now"
   #cta_url: "/docs/quick-start-guide/"
-  caption:
-excerpt: 'Cengjiyun'
+title: "层积云"
+excerpt: ""
 feature_row:
   - image_path: /assets/korea.png
     alt: ""
