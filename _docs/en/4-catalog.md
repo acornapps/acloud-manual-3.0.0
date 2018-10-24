@@ -13,9 +13,9 @@ sidebar:
 
 ---
 
-This feature allows you to easily create, deploy, and manage servers by creating a template of an application configuration.
+This feature allows you to easily create, deploy, and manage workloads by creating a template of an application configuration.
 
-Use the catalog feature to use multiple servers at once.
+Use the catalog feature to use multiple workloads at once.
 
 The catalog feature is divided into service catalogs and platform catalogs.
 
@@ -26,6 +26,6 @@ The catalog feature is divided into service catalogs and platform catalogs.
 | Service Catalog | User-generated catalog |
 | Platform Catalog | Default catalog provided by Cengjiyun |
 | Filter Catalog | Search for desired template |
-| Template | Collection of servers that constitute an application |
-| Deployment | Deploy server via catalog |
+| Template | Collection of workloads that constitute an application |
+| Deployment | Deploy workload via catalog |
 | Edit | Edit catalog information |

@@ -12,7 +12,7 @@ sidebar:
 
 ---
 
-This feature allows you to create and manage application maps, build tasks, and servers.![]({{ site.baseurl }}/assets/EN/3.0.0/3_1.png)
+This feature allows you to create and manage application maps, build tasks, and workloads.![]({{ site.baseurl }}/assets/EN/3.0.0/3_1.png)
 
 | Item | Description |
 | :---: | :--- |

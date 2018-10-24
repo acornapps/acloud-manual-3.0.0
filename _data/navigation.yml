@@ -7,20 +7,20 @@
 # documentation links
 docs:
   - title: "청지원 이해"
-    url: /docs/ko/readme_0/
+    url: /docs/ko/0.0/
     children:
       - title: "청지원 구성 개요"
-        url: /docs/ko/readme_1/
+        url: /docs/ko/0.1/
       - title: "클러스터 관리 레이어"
-        url: /docs/ko/readme_2/
+        url: /docs/ko/0.2/
       - title: "서비스 관리 레이어"
-        url: /docs/ko/readme_3/
+        url: /docs/ko/0.3/
       - title: "파이프라인 레이어"
-        url: /docs/ko/readme_4/
+        url: /docs/ko/0.4/
       - title: "카탈로그 레이어"
-        url: /docs/ko/readme_5/
+        url: /docs/ko/0.5/
       - title: "대시보드 레이어"
-        url: /docs/ko/readme_6/
+        url: /docs/ko/0.6/
   - title: "로그인"
     url: /docs/ko/1/
   - title: "환경설정"
@@ -98,12 +98,12 @@ docs:
           url: /docs/ko/3.1.4/
         - title: "파이프라인"
           url: /docs/ko/3.1.5/
-        - title: "퍼시스턴스 볼륨"
+        - title: "퍼시스턴트 볼륨"
           url: /docs/ko/3.1.6/
           children:
-            - title: "퍼시스턴스 생성"
+            - title: "퍼시스턴트 생성"
               url: /docs/ko/3.1.6.1/
-            - title: "퍼시스턴스 삭제"
+            - title: "퍼시스턴트 삭제"
               url: /docs/ko/3.1.6.2/
         - title: "설정"
           url: /docs/ko/3.1.7/
@@ -208,17 +208,17 @@ en:
     url: /docs/en/readme_0/
     children:
       - title: "Cengjiyun Structure Overview"
-        url: /docs/en/readme_1/
+        url: /docs/en/0.0/
       - title: "Cluster Management Layer"
-        url: /docs/en/readme_2/
+        url: /docs/en/0.1/
       - title: "Service Management Layer"
-        url: /docs/en/readme_3/
+        url: /docs/en/0.2/
       - title: "Pipeline Layer"
-        url: /docs/en/readme_4/
+        url: /docs/en/0.3/
       - title: "Catalog Layer"
-        url: /docs/en/readme_5/
+        url: /docs/en/0.4/
       - title: "Dashboard Layer"
-        url: /docs/en/readme_6/
+        url: /docs/en/0.5/
   - title: "Login"
     url: /docs/en/1/
   - title: "Environment Settings"
@@ -296,12 +296,12 @@ en:
           url: /docs/en/3.1.4/
         - title: "Pipeline"
           url: /docs/en/3.1.5/
-        - title: "퍼시스턴스 볼륨"
+        - title: "퍼시스턴트 볼륨"
           url: /docs/en/3.1.6/
           children:
-            - title: "퍼시스턴스 생성"
+            - title: "퍼시스턴트 생성"
               url: /docs/en/3.1.6.1/
-            - title: "퍼시스턴스 삭제"
+            - title: "퍼시스턴트 삭제"
               url: /docs/en/3.1.6.2/
         - title: "Settings"
           url: /docs/en/3.1.7/

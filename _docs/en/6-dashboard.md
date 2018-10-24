@@ -17,22 +17,21 @@ The dashboard allows you to view Cengjiyun service information at a glance.
 
 * **Summary**
 
-  Displays the number of currently-registered/managed applications, servers clusters, and the total cloud cost for the current month.
+  Displays the number of currently-registered/managed applications, workloads clusters, and the total cloud cost for the current month.
 
-* **Server Status**
+* **Resource Status**
 
-  Displays the number of deployed servers per cloud service provider.
-  Google GCP, Amazon AWS, Microsoft Azure, bare-metal, and private cloud platforms are registered.
+  You can check the total amount of CPU, memory, requested amount, usage, storage (Node, Pv) and usage.
 
-* **Cluster Cost Trend**
+* **Cluster Status by Provider**
 
-  Displays monthly cost trends of a selected year and daily cost trends for a selected month in graph form.
+  The number of registered clusters, the number of applications, and the number of workloads per provider can be confirmed.
 
-* **Top Cost by Cluster**
+* **Cost by Cluster**
 
-  Displays the top five clusters with the highest cost.
+  You can see the cost of the cluster in use.
 
-* **Top Cluster Resource Allocation **
+* **Top Cluster Resource Allocation**
 
   Displays the top five clusters with the highest resource utilization.
 
