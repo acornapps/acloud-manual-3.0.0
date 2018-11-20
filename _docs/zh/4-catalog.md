@@ -17,7 +17,7 @@ sidebar:
 
 目录分为服务目录和平台目录。
 
-![]({{ site.baseurl }}/assets/KR/3.0.0/4_0.png)![]({{ site.baseurl }}/assets/KR/3.0.0/4_1.png)![]({{ site.baseurl }}/assets/KR/3.0.0/4_2.png)
+![]({{ site.baseurl }}/assets/ZH/3.0.0/4_1.png)![]({{ site.baseurl }}/assets/ZH/3.0.0/4_2.png)![]({{ site.baseurl }}/assets/ZH/3.0.0/4_3.png)
 
 | **目录菜单** | **说明** |
 | :--- | :--- |
